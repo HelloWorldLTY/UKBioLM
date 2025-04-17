@@ -36,7 +36,7 @@ To process the datasets used for infernece and fine-tuning, please refer the cod
 
 Please refer the codes in the folder **pretraining** for details. We recommend at least having one H100 or A100 (80GB) for pre-training.
 
-We cannot directly share the pre-trained models due to the limitations of [UK BioBank](https://www.ukbiobank.ac.uk/media/x2gmevle/uk-biobank-ai-guidance-for-publication-july-2024-4.pdf), however, we are working on it and will propose one solution soon.
+We cannot directly share the pre-trained models due to the limitations of [UK BioBank](https://www.ukbiobank.ac.uk/media/x2gmevle/uk-biobank-ai-guidance-for-publication-july-2024-4.pdf), and the model weights are returned to UK BioBank for access.
 
 ## Applications
 
