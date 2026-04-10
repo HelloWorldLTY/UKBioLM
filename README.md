@@ -50,17 +50,17 @@ We thank the great codes implemented by the teams including [Huggingface](https:
 
 ## Contact
 
-Please contact Mr. Tianyu Liu if you have any questions (email: tianyu.liu@yale.edu).
+Please contact Tianyu Liu if you have any questions (email: tianyu.liu@yale.edu).
 
 ## Citation
 
 ```
 @article{liu2025pre,
   title={Pre-training Genomic Language Model with Variants for Better Modeling Functional Genomics},
-  author={Liu, Tianyu and Zhang, Xiangyu and Ying, Rex and Zhao, Hongyu},
+  author={Liu, Tianyu and Zhang, Xiangyu and Lin, Jiecong and Pinello, Luca and Ying, Rex and Zhao, Hongyu},
   journal={bioRxiv},
   pages={2025--02},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory}
+  year={2026},
+  publisher={NPJ Artificial Intelligence (in press)}
 }
 ```
