@@ -4,13 +4,13 @@
 
 We have different environments for running UKBioBERT and UKBioFormer to avoid package conflicts. Moreover, to pre-train or infer based on UKBioBERT, we also need different environments for devices with GPU as H100 or not. 
 
-For UKBioBERT, please install the environment based on (with H100):
+For UKBioBERT, please install the environment based on (without H100):
 
 ```
 conda env create -f ukbiobert_pretrain.yml
 ```
 
-For UKBioBERT, please install the environment based on (without H100):
+For UKBioBERT, please install the environment based on (with H100):
 
 ```
 conda env create -f ukbiobert_pretrain_h100.yml
